@@ -1,0 +1,48 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio / Rider / VS Code generated files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.unitypackage
+*.app
+sysinfo.txt
+crashlytics-build.properties
+*.tmp
+*.tmp.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentation excluded from the delivery repository
+TECH_SPEC.md
+audit_report.md
+Documentation/
