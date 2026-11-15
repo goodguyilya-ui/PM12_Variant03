@@ -118,7 +118,7 @@
 
 ## Структура репозитория для сдачи
 
-Репозиторий содержит исключительно необходимые для сборки элементы (временные папки `Library/`, `Temp/`, `Logs/`, `Build/` исключены):
+Репозиторий содержит исключительно необходимые для сборки элементы (временные папки `Library/`, `Temp/`, `Logs/`, `Build/`, а также `TECH_SPEC.md` и `Documentation/` исключены через `.gitignore`):
 ```
 PM12_Variant03/
 ├── Assets/
@@ -129,6 +129,6 @@ PM12_Variant03/
 ├── Packages/
 │   └── manifest.json
 ├── ProjectSettings/
-├── README.md
-└── TECH_SPEC.md
+├── .gitignore
+└── README.md
 ```
